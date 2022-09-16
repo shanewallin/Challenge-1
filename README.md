@@ -7,7 +7,7 @@ This Challenge was to add more accessibility features for this website and to ma
 ## Usage
 
 
-(assets/ScreenshotChallenge1.png)
+![Screenshot](assets/ScreenshotChallenge1.png)
 
 ## Credits
 
